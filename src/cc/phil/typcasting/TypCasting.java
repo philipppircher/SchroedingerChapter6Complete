@@ -3,8 +3,6 @@ package cc.phil.typcasting;
 import cc.phil.artopening.Painter;
 import cc.phil.rockband.*;
 
-import javax.imageio.plugins.jpeg.JPEGImageReadParam;
-
 public class TypCasting {
     public static void main(String[] args) {
         // Full access to all public members of class singer
