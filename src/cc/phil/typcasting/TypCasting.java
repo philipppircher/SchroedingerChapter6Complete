@@ -45,6 +45,5 @@ public class TypCasting {
         //person.shopAs(mickTheMusician);
         mickTheMusician.shopAs(mickTheMusician);
         artist.shopAs(artist);
-
     }
 }
